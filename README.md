@@ -6,5 +6,8 @@ WebProject is a web application that allows users to rate their favourite books 
 # Project members
 
 Sailau Maksat
-Sayin Bekarys 
+
+Sayin Bekarys
+
 Esenbayev Akhmetali
+
